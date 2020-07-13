@@ -1,4 +1,4 @@
-### Alison Gaete @alisongaete 👋
+# Alison Gaete @alisongaete 👋
 
 Hola, Soy Alison, Ingeniera Informática
 
